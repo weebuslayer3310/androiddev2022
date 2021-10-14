@@ -6,11 +6,13 @@
     android:orientation="vertical"
     android:id="@+id/Forecast"
     android:background="#42e3f5"
+    android:padding="15dp"
     tools:context=".ForecastFragment">
+
 
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
-        android:layout_marginTop="15sp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -30,7 +32,7 @@
             android:src="@drawable/sunny" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -40,7 +42,7 @@
             android:textSize="15dp"  />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -60,7 +62,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -70,7 +72,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -90,7 +92,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -100,7 +102,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -120,7 +122,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -130,7 +132,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -150,7 +152,7 @@
             android:src="@drawable/sunny" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -160,7 +162,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -180,7 +182,7 @@
             android:src="@drawable/sunny" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -190,7 +192,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -210,7 +212,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -220,7 +222,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -240,7 +242,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -250,7 +252,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -270,7 +272,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
@@ -280,7 +282,7 @@
             android:textSize="15dp" />
     </LinearLayout>
     <LinearLayout
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:layout_width="match_parent"
         android:layout_height="84dp"
         android:orientation="horizontal">
@@ -300,7 +302,7 @@
             android:src="@drawable/rainy" />
 
         <TextView
-            android:textColor="#fff30d"
+            android:textColor="#000000"
             android:textStyle="bold"
             android:layout_width="68dp"
             android:layout_height="match_parent"
